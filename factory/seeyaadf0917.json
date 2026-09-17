@@ -1,0 +1,15 @@
+{
+	"name": "seeyaadf0917",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "chinanorth3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0dd77fa6-c115-4c85-96dc-ee2634ebb8c8",
+		"tenantId": "954ddad8-66d7-47a8-8f9f-1316152d9587"
+	}
+}
